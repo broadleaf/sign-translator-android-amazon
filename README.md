@@ -1,0 +1,2 @@
+sign-translator-android-amazon
+==============================
